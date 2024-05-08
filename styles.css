@@ -6,13 +6,14 @@ body {
     }
 
     .container {  
-      width: 800px;
+      width: 700px;
       margin: 0 auto;
       margin-top:20px;
-      padding: 10px;
+      padding: 50px;
       background-color: #fff;
       box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     }
+
 
     h1 {
       color: #333;
@@ -25,6 +26,8 @@ body {
     }
     
     .topdetails{
+      position: sticky;
+      top:-1px;
       margin-left: 20%;
     }
 
