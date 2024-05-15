@@ -26,9 +26,9 @@ body {
     }
     
     .topdetails{
-      position: sticky;
-      top:-1px;
-      margin-left: 20%;
+      position: relative;
+      margin-top: -5%;
+      margin-left: 18%;
     }
 
     .profile {
